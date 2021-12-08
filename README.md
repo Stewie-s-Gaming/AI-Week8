@@ -1,5 +1,7 @@
 # AI-Week8
 
+Changes we made to the original code:
+
 In this game you can navigate between the states in the enemy's state machine, in order to define the enemy behavior:
 
 Press E:  The enemy will choose the furthest target from the player in his arsenal of target destinations and move towards it.
